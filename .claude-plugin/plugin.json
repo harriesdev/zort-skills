@@ -1,0 +1,13 @@
+{
+  "name": "zort",
+  "version": "0.1.0",
+  "description": "Josh's zort agent skills.",
+  "author": {
+    "name": "Josh",
+    "email": "josh@jahax.com"
+  },
+  "keywords": [
+    "skills"
+  ],
+  "skills": []
+}

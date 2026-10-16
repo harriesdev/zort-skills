@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "zort-skills",
+  "description": "Josh's zort Claude Code skills. Install them all as one plugin, or each skill on its own.",
+  "owner": {
+    "name": "Josh",
+    "email": "josh@jahax.com"
+  },
+  "plugins": [
+    {
+      "name": "zort",
+      "source": "./",
+      "description": "All zort skills in one plugin.",
+      "category": "development",
+      "keywords": [
+        "skills"
+      ]
+    }
+  ]
+}
